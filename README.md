@@ -6,7 +6,7 @@ I'm **Junnhwan**, majoring in Computer Science at Shenzhen University (Class of 
 
 Open to full-stack & AI agent internships. 
 
-**🚀 What I'm into:** Building full-stack apps, and diving into AI agents. I'm contributing to [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt), [kubeflow/sdk](https://github.com/kubeflow/sdk), [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron), and [kprompt/kprompt](https://github.com/kprompt/kprompt).
+**🚀 What I'm into:** Building full-stack apps, and diving into AI agents. I'm contributing to [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt), [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron), [kubeflow/sdk](https://github.com/kubeflow/sdk), and [kprompt/kprompt](https://github.com/kprompt/kprompt).
 
 **🛠️ Languages:** `Go` · `Java` · `Python` · `TypeScript`
 
