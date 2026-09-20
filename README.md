@@ -8,7 +8,7 @@ Open to full-stack & AI agent internships.
 
 **🚀 What I'm into:** Building full-stack apps, and diving into AI agents. 
 
-**🌱 Open source:** Contributing to [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent), [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt), and [kubevela/kubevela](https://github.com/kubevela/kubevela) .
+**🌱 Open source:** Contributing to [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent), [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt).
 
 **🛠️ Languages:** `Go` · `Java` · `Python` · `TypeScript`
 
