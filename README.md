@@ -6,7 +6,7 @@ I'm **Junnhwan**, majoring in Computer Science at Shenzhen University (Class of 
 
 **🚀 What I'm into:** Building full-stack apps, and diving into AI agents. 
 
-**🌱 Open source:** Contributing to [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent), [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt).
+**🌱 Open source:** Contributing to [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem), [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent), [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt).
 
 **🛠️ Languages:** `Go` · `Java` · `Python` · `TypeScript`
 
